@@ -2496,6 +2496,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 866370349}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &913761386
 =======
@@ -2827,6 +2828,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 867676952}
 >>>>>>> Stashed changes
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of db63ac1 (proyectos)
 =======
 >>>>>>> parent of db63ac1 (proyectos)
 --- !u!1 &963194225
@@ -3193,6 +3196,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1132726876}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &1240968064
@@ -3626,6 +3630,8 @@ CanvasRenderer:
   m_GameObject: {fileID: 1589162158}
 >>>>>>> Stashed changes
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of db63ac1 (proyectos)
 =======
 >>>>>>> parent of db63ac1 (proyectos)
 --- !u!1 &1592366677
